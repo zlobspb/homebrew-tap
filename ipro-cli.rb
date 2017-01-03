@@ -1,9 +1,9 @@
 class IproCli < Formula
   desc "iproto cli tools"
   homepage "https://github.com/mailru/ipro-cli"
-  url "https://github.com/mailru/ipro-cli/archive/v0.1.tar.gz"
-  version "0.1"
-  sha256 "365b3d17ea4d91aa36d1deb59831271e166d97710d1c1576b9274a631e8b4f25"
+  url "https://github.com/mailru/ipro-cli/archive/v0.2.tar.gz"
+  version "0.2"
+  sha256 "ccd198bdb446d58e283fb840dfd5f85c00f667d2063810bf5f50db90acdb7cd5"
 
   depends_on "cmake" => :build
 
